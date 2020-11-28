@@ -25,7 +25,7 @@ const content = {
     creditLink: 'https://unsplash.com/photos/yxmNWxi3wCo',
     message:
       'This is protected content! It’s only available if you have a pro plan or higher.',
-    allowedRoles: ['pro', 'premium'],
+    allowedRoles: ['free','pro', 'premium'],
   },
   premium: {
     src:
