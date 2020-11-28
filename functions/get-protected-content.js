@@ -2,6 +2,8 @@ const content = {
   free: {
     src:
       'https://images.unsplash.com/photo-1519098901909-b1553a1190af?auto=format&fit=crop&w=600&h=600&q=80',
+      src:
+      'https://images.unsplash.com/photo-1519098901909-b1553a1190af?auto=format&fit=crop&w=600&h=600&q=80',
     alt: 'close-up of a corgi with its tongue hanging out',
     credit: 'Florencia Potter',
     creditLink: 'https://unsplash.com/photos/yxmNWxi3wCo',
