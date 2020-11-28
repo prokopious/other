@@ -12,6 +12,10 @@ const content = {
     message: 'To view this content, you need to create an account!',
     allowedRoles: ['free', 'pro', 'premium'],
   },
+
+  free: {
+    src: 'https://i2.wp.com/thelittleslush.com/wp-content/uploads/2018/02/male-pornstars-biggest-dicks-in-porn.jpg?fit=800%2C500&ssl=1',
+  }
   other: {
     src:
       'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWQYZUhGywv9VahxsIzmlZ3q6gdgV-nPokxg&usqp=CAU',
