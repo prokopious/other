@@ -2,10 +2,7 @@ const content = {
   free: {
     src:
       'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWQYZUhGywv9VahxsIzmlZ3q6gdgV-nPokxg&usqp=CAU',
-      src:
-      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWQYZUhGywv9VahxsIzmlZ3q6gdgV-nPokxg&usqp=CAU',
-      src:
-      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWQYZUhGywv9VahxsIzmlZ3q6gdgV-nPokxg&usqp=CAU',
+
     alt: 'corgi in the park with a sunset in the background',
     credit: 'Jacob Van Blarcom',
     creditLink: 'https://unsplash.com/photos/lkzjENdWgd8',
@@ -15,16 +12,9 @@ const content = {
 
   free: {
     src: 'https://i2.wp.com/thelittleslush.com/wp-content/uploads/2018/02/male-pornstars-biggest-dicks-in-porn.jpg?fit=800%2C500&ssl=1',
-  }
-  other: {
-    src:
-      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWQYZUhGywv9VahxsIzmlZ3q6gdgV-nPokxg&usqp=CAU',
-    alt: 'corgi in the park with a sunset in the background',
-    credit: 'Jacob Van Blarcom',
-    creditLink: 'https://unsplash.com/photos/lkzjENdWgd8',
-    message: 'To view this content, you need to create an account!',
     allowedRoles: ['free', 'pro', 'premium'],
   },
+
   pro: {
     src:
       'https://images.unsplash.com/photo-1519098901909-b1553a1190af?auto=format&fit=crop&w=600&h=600&q=80',
