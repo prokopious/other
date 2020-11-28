@@ -10,15 +10,20 @@ const content = {
     allowedRoles: ['free', 'pro', 'premium'],
   },
 
-  free:  {
-    src: 'https://i2.wp.com/thelittleslush.com/wp-content/uploads/2018/02/male-pornstars-biggest-dicks-in-porn.jpg?fit=800%2C500&ssl=1',
-    allowedRoles: ['free', 'pro', 'premium'],
-  
-
-  
-    src: 'https://i2.wp.com/thelittleslush.com/wp-content/uploads/2018/02/male-pornstars-biggest-dicks-in-porn.jpg?fit=800%2C500&ssl=1',
-    allowedRoles: ['free', 'pro', 'premium'],
-  },
+  free:  [
+    { "name": "Apple", "src": "/images/apple.jpg" },
+    { "name": "Apple2", "src": "/images/apple2.jpg" },
+    { "name": "Apple3", "src": "/images/apple3.jpg" },
+    { "name": "Apple4", "src": "/images/apple4.jpg" },
+    { "name": "Apple5", "src": "/images/apple5.jpg" },
+    { "name": "Apple6", "src": "/images/apple6.jpg" },
+    { "name": "Bagels", "src": "/images/bagels.jpg" },
+    { "name": "Single bagel", "src": "/images/single-bagel.jpg" },
+    { "name": "Carrots", "src": "/images/carrots.jpg" },
+    { "name": "Latte art", "src": "/images/latte-art.jpg" },
+    { "name": "Noodles", "src": "/images/noodles.jpg" },
+    { "name": "Branches", "src": "/images/branches.png" }
+],
 
   pro: {
     src:
