@@ -10,10 +10,15 @@ const content = {
     allowedRoles: ['free', 'pro', 'premium'],
   },
 
-  free: {
+  free:  [{
     src: 'https://i2.wp.com/thelittleslush.com/wp-content/uploads/2018/02/male-pornstars-biggest-dicks-in-porn.jpg?fit=800%2C500&ssl=1',
     allowedRoles: ['free', 'pro', 'premium'],
   },
+
+  {
+    src: 'https://i2.wp.com/thelittleslush.com/wp-content/uploads/2018/02/male-pornstars-biggest-dicks-in-porn.jpg?fit=800%2C500&ssl=1',
+    allowedRoles: ['free', 'pro', 'premium'],
+  }],
 
   pro: {
     src:
