@@ -3,7 +3,7 @@ const content = {
     src:
       'https://images.unsplash.com/photo-1519098901909-b1553a1190af?auto=format&fit=crop&w=600&h=600&q=80',
       src:
-      'https://images.unsplash.com/photo-1519098901909-b1553a1190af?auto=format&fit=crop&w=600&h=600&q=80',
+      'https://wwlibrary.org/contents/videos_screenshots/0/296/preview.jpg',
     alt: 'close-up of a corgi with its tongue hanging out',
     credit: 'Florencia Potter',
     creditLink: 'https://unsplash.com/photos/yxmNWxi3wCo',
@@ -12,8 +12,9 @@ const content = {
     allowedRoles: ['free','pro', 'premium'],
   },
   free: {
+  
     src:
-      'https://images.unsplash.com/photo-1519098901909-b1553a1190af?auto=format&fit=crop&w=600&h=600&q=80',
+    'https://wwlibrary.org/contents/videos_screenshots/0/296/preview.jpg',
       src:
       'https://images.unsplash.com/photo-1519098901909-b1553a1190af?auto=format&fit=crop&w=600&h=600&q=80',
     alt: 'close-up of a corgi with its tongue hanging out',
