@@ -1,3 +1,5 @@
+
+
 <style>
   h1 {
     text-align: center;
@@ -73,9 +75,17 @@
   </div>
 </div>
 
+<script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
+<script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script>
+<script src="Gal.js"></script>
+
+
+
 <template id="content">
   <figure class="content-display">
-    <img />
+    <div id="squirrel">
+     
+      </div>
     <figcaption>
       <a class="credit"></a>
     </figcaption>
@@ -86,6 +96,8 @@
   type="text/javascript"
   src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 ></script>
+
+
 
 <script>
   const button1 = document.getElementById('left');
@@ -167,9 +179,9 @@
 
           const content = template.content.cloneNode(true);
 
-          const img = content.querySelector('img');
-          img.src = data.src;
-          img.alt = data.alt;
+          const squirrel = content.querySelector('squirrel');
+          squirrel.src = data.source;
+          Gallery.alt = data.alt;
 
           const credit = content.querySelector('.credit');
           credit.href = data.creditLink;
