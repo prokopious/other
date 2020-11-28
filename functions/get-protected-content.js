@@ -2,6 +2,10 @@ const content = {
   free: {
     src:
       'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWQYZUhGywv9VahxsIzmlZ3q6gdgV-nPokxg&usqp=CAU',
+      src:
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWQYZUhGywv9VahxsIzmlZ3q6gdgV-nPokxg&usqp=CAU',
+      src:
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWQYZUhGywv9VahxsIzmlZ3q6gdgV-nPokxg&usqp=CAU',
     alt: 'corgi in the park with a sunset in the background',
     credit: 'Jacob Van Blarcom',
     creditLink: 'https://unsplash.com/photos/lkzjENdWgd8',
